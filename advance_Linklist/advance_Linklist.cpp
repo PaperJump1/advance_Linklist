@@ -237,3 +237,7 @@ int main() {
 void test_function(){
 	return;
 }
+
+void test_callback(){
+	return;
+}
