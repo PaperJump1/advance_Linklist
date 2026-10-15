@@ -233,3 +233,7 @@ int main() {
 		 cout << "true";
 	 }
 }
+
+void test_function(){
+	return;
+}
